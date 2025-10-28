@@ -31,6 +31,3 @@ git clone https://github.com/Azizbek911/MovieBot.git
 cd MovieBot
 npm install
 ```
-
-
-
