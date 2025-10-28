@@ -27,9 +27,10 @@ A powerful multilingual Telegram bot built with [Telegraf.js](https://telegraf.j
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/azizbekdev/kino-bot-2.0.git](https://github.com/Azizbek911/MovieBot.git
+git clone https://github.com/Azizbek911/MovieBot.git
 cd MovieBot
 npm install
 ```
+
 
 
